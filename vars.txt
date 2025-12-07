@@ -1,1 +1,2 @@
 This is vars file.
+Adding another variable to vars file.
